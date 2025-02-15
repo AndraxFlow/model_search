@@ -31,7 +31,7 @@ from model_search.ops import svdf_conv
 import tensorflow.compat.v2 as tf
 import tf_slim
 # TODO(b/172564129): better documentation for this file. http://b/130796421
-# TODO first commit first branch
+# TODO second commit first branch
 
 @tf_slim.add_arg_scope
 def get_channel_dim(input_tensor, data_format='INVALID'):
