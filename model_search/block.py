@@ -31,7 +31,7 @@ from model_search.ops import svdf_conv
 import tensorflow.compat.v2 as tf
 import tf_slim
 # TODO(b/172564129): better documentation for this file. http://b/130796421
-# TODO second commit of first branch
+# TODO third commit of first branch
 
 
 @tf_slim.add_arg_scope
